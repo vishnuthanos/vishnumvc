@@ -6,6 +6,8 @@ using System.Web;
 namespace vishnuDevops
 {
     public class Class1
+        
     {
+        public string  name { set; get; }
     }
 }
