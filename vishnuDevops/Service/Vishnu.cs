@@ -5,7 +5,8 @@ using System.Web;
 
 namespace vishnuDevops.Service
 {
-    public class Vishnu
-    {
-    }
+	public class Vishnu
+	{
+        public int x { set; get; }
+	}
 }
