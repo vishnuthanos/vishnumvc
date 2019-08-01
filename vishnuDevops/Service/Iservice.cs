@@ -8,6 +8,7 @@ namespace vishnuDevops.Service
 {
     interface IService
     {
-        int Addition(int a, int b);
+        string methode();
+
     }
 }

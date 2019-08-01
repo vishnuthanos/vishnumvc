@@ -7,11 +7,9 @@ namespace vishnuDevops.Service
 {
     public class service:IService
     {
-        public int Addition(int a, int b)
+        public string methode()
         {
-            return a + b;
+            return "vishnu";
         }
-
-         
     }
 }
