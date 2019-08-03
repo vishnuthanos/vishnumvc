@@ -78,3 +78,7 @@ D:\vishnudev\vishnuDevops\vishnuDevops\obj\Debug\vishnuDevops.csproj.CoreCompile
 D:\vishnudev\vishnuDevops\vishnuDevops\obj\Debug\vishnuDevops.csproj.CopyComplete
 D:\vishnudev\vishnuDevops\vishnuDevops\obj\Debug\vishnuDevops.dll
 D:\vishnudev\vishnuDevops\vishnuDevops\obj\Debug\vishnuDevops.pdb
+D:\vishnumvc\vishnuDevops\obj\Debug\vishnuDevops.csprojAssemblyReference.cache
+D:\vishnumvc\vishnuDevops\obj\Debug\vishnuDevops.csproj.CoreCompileInputs.cache
+D:\vishnumvc\vishnuDevops\obj\Debug\vishnuDevops.dll
+D:\vishnumvc\vishnuDevops\obj\Debug\vishnuDevops.pdb
